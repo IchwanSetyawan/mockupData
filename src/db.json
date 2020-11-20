@@ -1,0 +1,33 @@
+{
+    "users": [
+       {
+           "id": 1,
+           "u_name" : "ichwan",
+           "u_username": "ichwan",
+           "u_pass" : "password",
+           "todo" : [
+               "Makan", "Minum"
+           ]
+       }, 
+       {
+           "id": 2,
+           "u_name": "Setyawan",
+           "u_username": "setyawan",
+           "u_pass": "password",
+           "todo": [
+               "Ngoding"
+               
+           ]
+       },
+       {
+        "id": 3,
+        "u_name": "Rambe",
+        "u_username": "rambe",
+        "u_pass": "password",
+        "todo": [
+            "Tidur"
+        ]
+    }    
+
+    ]
+}
